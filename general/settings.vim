@@ -29,4 +29,5 @@ set ignorecase
 "Cursor and columns
 set cursorline
 set colorcolumn=130
+
 "hightlight ColoColumn ctermbg=0 guibg=lightgrey
